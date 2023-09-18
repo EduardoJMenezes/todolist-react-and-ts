@@ -1,4 +1,4 @@
-<p>- Lista de tarefas.</p>
+<p>- Lista de tarefas desenvolvida em React com TypeScript.</p>
 <p>- Demonstração:</p>
 
 <h1 align="center">
